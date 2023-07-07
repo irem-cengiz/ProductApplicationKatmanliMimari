@@ -1,0 +1,8 @@
+﻿Main içine bir db oluşturuyoruz. o db yi forma gönderiyorum.
+form sayfamda o db yi form ctorumun içinde de koyuyorum.....
+
+açıldığında o db yi yakalıyoruz.
+
+private redonly productdb _db; ürettik.
+bu kullanmak için ürettiğimiz i db ye eşitliyoruz.
+_db=db
